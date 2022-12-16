@@ -1,5 +1,5 @@
 # hft_on_qloud
-POC of EWL protocol in Qiskit.
+POC of EWL quantum (Prisoner's Dilemma) game protocol in Qiskit.
 
 ## How to run
 
