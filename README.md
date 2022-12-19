@@ -1,4 +1,4 @@
-# Qiskit implementation of the Eisert, Wilkens, and Lewewnstein (EWL) protocol for executing the non-cooperative game Prisoner's Dilemma on a quantum computer
+# Qiskit implementation of the Eisert, Wilkens, and Lewewnstein (EWL) protocol for playing Prisoner's Dilemma on a quantum computer
 
 *Quantum game theory* studies how strategic interactions (non-cooperative games) can be improved when implemented using the emerging technology of quantum computers. Non-cooperative games are ubiqituous, manifesting in biological settings when organisms compete over finite resources, in international relations when self-enforcing international policies (like those for climate change) are to be drafted, in financial transactions, and in the desgin of supply-chain and network protocols. In all these settings, the fundamental solution of a non-cooperative game is the *Nash equilibrium*, a specific, stronger form of multi-criteria optimization (MOO) where each player's payoff in the game is the best possible given the payoff of all other players. 
 
