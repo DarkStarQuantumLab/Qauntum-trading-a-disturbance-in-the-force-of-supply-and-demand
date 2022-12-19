@@ -4,7 +4,7 @@
 
 Calculating Nash equilibrium can be a computationally intensive problem for large games (many players with many strategies). To mitigate this, quantum computers can be used to accelarate its calculation (see https://github.com/DarkStarQuantumLab/NashEquilibrium). 
 
-A more dramatic aspect of quantum game theory can be observed when a non-cooperative game is played or implenented on a quantum computer. In this case, features of the quantum realm conspire to produce Nash equilibria (there can be more than one) that are better paying than those possible on a conventional computer (https://doi.org/10.1103/PhysRevLett.83.3077). This phenomenon has immediate utility in practical non-cooperative games like online (high-frequency) trading (https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full) where the quantum computational implementation can produce better paying trades for the players. 
+A more dramatic aspect of quantum game theory can be observed when a non-cooperative game is played or implenented on a quantum computer. In this case, features of the quantum realm conspire to produce Nash equilibria (there can be more than one) that are better paying than those possible on a conventional computer (https://doi.org/10.1103/PhysRevLett.83.3077). This phenomenon has immediate utility in practical non-cooperative games like online trading (https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full) where the quantum computational implementation can produce better paying trades for the players. 
 
 
 
