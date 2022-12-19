@@ -1,6 +1,6 @@
-# Qiskit implementation of the Eisert, Wilkens, and Lewewnstein (EWL) protocol for executing the non-cooperative game Prisoner's Dilemma on a quantum computer.
+# Qiskit implementation of the Eisert, Wilkens, and Lewewnstein (EWL) protocol for executing the non-cooperative game Prisoner's Dilemma on a quantum computer
 
-High-frequency trading (HFT) offers an excellent use case and a potential killer application of the commercially available, first generation quasi-quantum computers. To this end, we offer here a simple game-theoretic model of HFT as the famous two player game, Prisoner’s Dilemma. We explore the implementation of HFT as an instance of Prisoner’s Dilemma on the (quasi) quantum cloud using the Eisert, Wilkens, and Lewenstein quantum mediated communication protocol, and how this implementation can not only increase transaction speed but also improve the lot of the players in HFT. Using cooperative game-theoretic reasoning, we also note that in the near future when the internet is properly quantum, players will be able to achieve Pareto-optimality in HFT as an instance of reinforced machine learning.
+*Quantum game theory* studies how strategic interactions (non-cooperative games) can be improved upon when implemented on the emerging technology of quantum computers. 
 
 ## How to run
 
