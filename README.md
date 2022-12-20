@@ -7,7 +7,7 @@ When non-cooperative games are played on a quantum computer, features of the qua
 **A proposal for modeling and implementing high-frequency trading (HFT) as the strategic game Prisoner's Dilemma using cloud-based quantum processors appears in https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full. The currenct version of this repo implements the first step: executing quantum Prisoner's Dilemma on IBM's quantum computer via Qiskit. The final version envisions culmination with a deployable HFT-on-quantum-cloud platfom.** 
 
 
-On a related note, calculating Nash equilibrium can be computationally intensive for large games (many players with many strategies). To mitigate this, quantum computers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
+On a related note, calculating Nash equilibrium can be computationally intensive for large games (many players with many strategies). To mitigate this, quantum annealers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
 
 ## How to run
 
