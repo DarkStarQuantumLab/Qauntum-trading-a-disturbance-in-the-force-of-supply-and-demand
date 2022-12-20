@@ -4,7 +4,7 @@
 
 When non-cooperative games are played on a quantum computer, features of the quantum realm conspire to produce Nash equilibria (there can be more than one) that are better paying than those possible on a conventional computer (https://doi.org/10.1103/PhysRevLett.83.3077). This phenomenon holds real-world utility for online trading where the quantum computational implementation can produce better paying trades for the players. 
 
-**A proposal for modeling and implementing high-frequency trading (HFT) as the strategic game Prisoner's Dilemma using cloud-based quantum processors appears in https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full. 
+**A proposal for modeling and implementing high-frequency trading (HFT) as the strategic game Prisoner's Dilemma using cloud-based quantum processors appears in https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full.** 
 
 On a related note, calculating Nash equilibrium can be computationally intensive for large games (many players with many strategies). To mitigate this, quantum computers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
 
