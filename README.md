@@ -1,4 +1,4 @@
-# Toward high-frequency trading on the quantum cloud - implementating quantum Prisoner's Dilemma with Qiskit
+# Toward high-frequency trading on the quantum cloud (implementating quantum Prisoner's Dilemma with Qiskit)
 
 *Quantum game theory* studies how strategic interactions, formally referred to as non-cooperative games, can be improved when implemented using the emerging technology of quantum computers (a review of quantum game theory: https://link.springer.com/article/10.1007/s11128-018-2082-8). Non-cooperative games are ubiqituous, manifesting in biological settings when organisms compete over finite resources, in international relations when self-enforcing policies (like those for climate change) are to be drafted, in financial transactions, and in the desgin of supply-chain and network protocols. In all these settings, the fundamental solution of a non-cooperative game is the *Nash equilibrium*, a specific, stronger instance of multi-criteria optimization (MOO) in which each player's payoff in the game is the best possible, given the payoff of all other players. 
 
