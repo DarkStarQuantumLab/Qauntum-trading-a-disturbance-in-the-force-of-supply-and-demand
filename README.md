@@ -7,9 +7,10 @@ When non-cooperative games are played on a quantum computer, features of the qua
 ### Why are the Nash equilibria better? 
 When a non-ccoperative game like Prisoner's Dilemma is played on a computing system, the system can be viewed as a ``referee'' who correlates the outcomes of the game in a way that is impossible when the players randmoize over their strategies independently. The referee then tells each player what strategy they should play to achieve the expected payoff from the correaltion. If each player agrees with the referee, the resulting equilibrium is called a *correlated equilibrium*. A correlated equilibrium is simply Nash equilibrium in the proper extension of a game to include correlations (see section 5 of the paper "Quantized Poker" found here - https://arxiv.org/pdf/0902.2196.pdf). Correlated equilibria can be better quality than the original Nash equilibria. 
 
-When a game is played on a quantum computing system, the "quantum referee" can create quantum correlation that are stronger than the classical correalteion of the conventional referee, and this can result in better quality Nash equilibria. 
+When a game is played on a quantum computing system, the "quantum referee" can create quantum correlation that are stronger than the classical correalteion of the conventional referee, and this can result in better quality Nash equilibria in the quantum (extension of a) game. 
 
-On a related note, calculating Nash equilibrium can be computationally intensive for large games (many players with many strategies). To mitigate this, quantum annealers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
+### Calculating Nash equilibria on a quantum computer
+There exists the seperate problem of calculating Nash equilibrium, a computationally intensive process for large games. To mitigate this, quantum annealers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
 
 ## How to run
 
