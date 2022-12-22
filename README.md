@@ -7,7 +7,7 @@ When non-cooperative games like Prisoner's Dilemma are played on a quantum compu
 ### Online trading on the quantum cloud
 The currenct version of this project gives Qiskit code for an initial "pure strategy" implemention of Prisoner's Dilemma on IBM's quantum computer. This is a first step in modeling and implementing [high-frequency trading (HFT) as Prisoner's Dilemma using cloud-based quantum processors](https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full). The final version of this project envisions deploying a HFT-on-quantum-cloud platfom. 
 
-### Why are the Nash equilibria better? 
+### Why are quantum computed Nash equilibria better? 
 When a non-ccoperative game like Prisoner's Dilemma is played on a computing system, the system can be viewed as a ``referee'' who correlates the outcomes of the game in a way that is impossible when the players randmoize over their strategies independently. The referee then tells each player what strategy they should play to achieve the expected payoff from the correaltion. If each player agrees with the referee, the resulting equilibrium is called a *correlated equilibrium*. A correlated equilibrium is simply Nash equilibrium in the proper extension of a game to include correlations (see section 5 of the paper "Quantized Poker" found here - https://arxiv.org/pdf/0902.2196.pdf). Correlated equilibria can be better quality than the original Nash equilibria. 
 
 When a game is played on a quantum computing system, the "quantum referee" can create quantum correlation that are stronger than the classical correalteion of the conventional referee, and this can result in better quality Nash equilibria in the quantum (extension of a) game. 
