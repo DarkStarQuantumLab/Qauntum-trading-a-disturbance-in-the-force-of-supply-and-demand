@@ -13,7 +13,7 @@ When a non-cooperative game like Prisoner's Dilemma is played on a computing sys
 When a game is played on a quantum computing system, the "quantum referee" can create quantum correlation that are stronger than the classical correlation of the conventional referee, and this can result in better quality Nash equilibria in the quantum (extension of a) game. 
 
 ### Calculating Nash equilibria on a quantum computer
-There exists the seperate problem of calculating Nash equilibrium, a computationally intensive process for large games. To mitigate this, quantum annealers can be used to accelarate its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
+There exists the separate problem of calculating Nash equilibrium, a computationally intensive process for large games. To mitigate this, quantum annealers can be used to accelerae its calculation. For example, see: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
 
 ## How to run
 
