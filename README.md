@@ -18,7 +18,7 @@ There exists the separate problem of calculating Nash equilibrium, a computation
 ## How to run
 
 1. In Google Collab through pip install qiskit (provided in the Notebook). The IBM Q account token may be required. 
-2. Or upload the notebook to the IBM Quntum Lab (https://quantum-computing.ibm.com/). No installations are required, simply import required frameworks.
+2. Or upload the notebook to the IBM Quantum Lab (https://quantum-computing.ibm.com/). No installations are required, simply import required frameworks.
 
 # License
 This work is licensed under the [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0) and is owned by [Dark Star Quanutm Lab Inc](https://www.darkstarquantumlab.com/)
