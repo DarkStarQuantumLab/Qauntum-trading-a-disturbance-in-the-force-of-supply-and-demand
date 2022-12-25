@@ -21,7 +21,7 @@ There exists the separate problem of calculating Nash equilibrium, a computation
 2. Or upload the notebook to the IBM Quantum Lab (https://quantum-computing.ibm.com/). No installations are required, simply import required frameworks.
 
 # License
-This work is licensed under the [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0) and is owned by [Dark Star Quanutm Lab Inc](https://www.darkstarquantumlab.com/)
+This work is licensed under the [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0) and is owned by [Dark Star Quantum Lab Inc](https://www.darkstarquantumlab.com/)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
