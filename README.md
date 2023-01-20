@@ -25,3 +25,17 @@ This work is licensed under the [Apache 2 License](https://www.apache.org/licens
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+# References
+
+1. [Khan FS, Bao N. Quantum Prisoner's Dilemma and High Frequency Trading on the Quantum Cloud. Front Artif Intell. 2021 Nov 3;4:769392. doi: 10.3389/frai.2021.769392. PMID: 34805975; PMCID: PMC8596374.](https://pubmed.ncbi.nlm.nih.gov/34805975/)
+
+2. [J. Eisert, M. Wilkens, M. Lewenstein. Quantum Games and Quantum Strategies. Phys. Rev. Lett. 83, 3077 (1999). Sep 1999.](https://arxiv.org/abs/quant-ph/9806088)
+
+3. [J. Eisert, M. Wilkens. Quantum Games. J. Mod. Opt. 47 (2000) 2543. Apr 2000.](https://arxiv.org/abs/quant-ph/0004076)
+
+4. [Adrian P. Flitney, Lloyd C. L. Hollenberg. Nash equilibria in quantum games with generalized two-parameter strategies. Phys. Lett. A 363 (2007) 381-388. Oct 2006.](https://arxiv.org/abs/quant-ph/0610084)
+
+5. [The Qiskit Tutorials: The Density Matrix and Mixed States. IBM Q.] https://qiskit.org/textbook/ch-quantum-hardware/density-matrix.html
+
+
+
