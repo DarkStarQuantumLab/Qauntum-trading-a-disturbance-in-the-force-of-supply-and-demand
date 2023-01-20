@@ -35,7 +35,7 @@ This work is licensed under the [Apache 2 License](https://www.apache.org/licens
 
 4. [Adrian P. Flitney, Lloyd C. L. Hollenberg. Nash equilibria in quantum games with generalized two-parameter strategies. Phys. Lett. A 363 (2007) 381-388. Oct 2006.](https://arxiv.org/abs/quant-ph/0610084)
 
-5. [The Qiskit Tutorials: The Density Matrix and Mixed States. IBM Q.] https://qiskit.org/textbook/ch-quantum-hardware/density-matrix.html
+5. [The Qiskit Tutorials: The Density Matrix and Mixed States. IBM Q.](https://qiskit.org/textbook/ch-quantum-hardware/density-matrix.html)
 
 
 
