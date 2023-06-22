@@ -1,5 +1,5 @@
 # Online trading on the quantum cloud
-The current version of this project gives Qiskit code for playing the strategic game Prisoner's Dilemma on IBM's quantum computer. This is a first step in modeling and implementing [high-frequency trading (HFT) as Prisoner's Dilemma using cloud-based quantum processors](https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full). The final version of this project envisions deploying a HFT-on-quantum-cloud platform using a combination of quantum and classical hardware on which *Quantum Machine Learning* algorithms will be implemented. 
+The current version of this project gives Qiskit code for playing the strategic game Prisoner's Dilemma on IBM's quantum computer. This is an intitial step in modeling and implementing [high-frequency trading (HFT) as Prisoner's Dilemma using cloud-based quantum processors](https://www.frontiersin.org/articles/10.3389/frai.2021.769392/full). Next iterations of this project envision deploying a HFT-on-quantum-cloud platform using a combination of quantum and classical hardware and *Re-inforcement and Quantum Machine Learning* algorithms. 
 
 ## Improving strategic games using quantum computing
 
