@@ -37,5 +37,5 @@ This work is licensed under the [Apache 2 License](https://www.apache.org/licens
 
 5. [The Qiskit Tutorials: The Density Matrix and Mixed States. IBM Q.](https://qiskit.org/textbook/ch-quantum-hardware/density-matrix.html)
 
-6. [T. Krause, G. Anderson, D. Ernt, E. Beck, R. Cherkaoui, A. Germond. Nash Equilibria and Reinforcement Learning for Active Decision Maker Modelling in Power Markets. https://www.researchgate.net/publication/37446162_Nash_Equilibria_and_Reinforcement_Learning_for_Active_Decision_Maker_Modelling_in_Power_Markets]
+6. [T. Krause, G. Anderson, D. Ernt, E. Beck, R. Cherkaoui, A. Germond. Nash Equilibria and Reinforcement Learning for Active Decision Maker Modelling in Power Markets.] (https://www.researchgate.net/publication/37446162_Nash_Equilibria_and_Reinforcement_Learning_for_Active_Decision_Maker_Modelling_in_Power_Markets)
 
