@@ -10,7 +10,7 @@ When strategic games like Prisoner's Dilemma are played on a quantum computer, f
 ### Why are quantum computed Nash equilibria better? 
 When a strategic game like Prisoner's Dilemma is played on a computing system, the system can be viewed as a ''referee'' who correlates the outcomes of the game in a way that is impossible when the players randomize over their respective strategies independently. The referee then tells each player what strategy they should play to achieve the expected payoff from the correlation. If each player agrees with the referee, the resulting equilibrium is called a *correlated equilibrium*. A correlated equilibrium is simply Nash equilibrium in the proper extension of a game to include a referee-enabled correlations. Correlated equilibria can be better quality than the original Nash equilibria. 
 
-**When a game is played on a quantum computing system, the "quantum referee" can create quantum correlations that are stronger than the classical correlation of the conventional referee, and this can result in better quality Nash equilibria in the quantum (extension of a) game**. 
+**When a game is played on a quantum computing system, the "quantum referee" can create quantum correlations that are stronger than the classical correlations of the conventional referee, and this can result in better quality Nash equilibria in the quantum (extension of a) game**. 
 
 ### Calculating Nash equilibria on a quantum computer
 There exists the separate problem of calculating Nash equilibrium, a computationally intensive process for large games. To mitigate this, quantum annealers can be used to accelerae its calculation. See: https://github.com/DarkStarQuantumLab/NashEquilibrium. 
